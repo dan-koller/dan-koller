@@ -10,7 +10,7 @@ _I'm a student and hobby developer. I enjoy building fast and secure web apps an
 
 ---
 
-### Languages & Framework:
+### Languages & Frameworks:
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
