@@ -4,7 +4,7 @@ _I'm a student and hobby developer. I enjoy building fast and secure web apps an
 
 -   🔭 I’m currently working on a React web app 👨‍💻
 -   🌱 I’m currently enhancing my Frontend skills
--   🤝 I’m looking to collaborate various projects
+-   🤝 I’m looking to collaborate on various projects
 -   📫 Contact me [here](https://dan-koller.github.io/src/pages/contact.html)
 -   ⚡ Fun fact: I'm really interested in science and physics 🤓
 
