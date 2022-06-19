@@ -2,8 +2,8 @@
 
 _I'm a student and hobby developer. I enjoy building fast and secure web apps and APIs and work hard to make it a profession._
 
--   🔭 I’m currently working on a React web app 👨‍💻
--   🌱 I’m currently enhancing my Frontend skills
+-   🔭 I’m currently working on a Spring API 👨‍💻
+-   🌱 I’m currently enhancing my data structures and algorithm skills
 -   🤝 I’m looking to collaborate on various projects
 -   📫 Contact me [here](https://dan-koller.github.io/src/pages/contact.html)
 -   ⚡ Fun fact: I'm really interested in science and physics 🤓
@@ -36,7 +36,10 @@ _I'm a student and hobby developer. I enjoy building fast and secure web apps an
 <img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
+
 <img align="left" alt="Postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
+<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" >
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
