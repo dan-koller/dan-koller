@@ -1,16 +1,23 @@
 ## Hello World, Dan here 👋
 
-_I'm a student and hobby developer. I enjoy building fast and secure web apps and APIs and work hard to make it a profession._
+I'm a student and developer who enjoys building fast, secure, and modern web apps and APIs. I also like automating systems and processes so I have more time to focus on the important things.
 
 -   🔭 I’m currently working on a Spring API 👨‍💻
 -   🌱 I’m currently enhancing my data structures and algorithm skills
 -   🤝 I’m looking to collaborate on various projects
+-   ⚡️ I would like to work professionally on technologies that improve our lives and create a sustainable and better future
 -   📫 Contact me [here](https://dan-koller.github.io/src/pages/contact.html)
--   ⚡ Fun fact: I've written my first lines of code in Visual Basic 🤷‍♂️
 
 ---
 
-### Languages & Frameworks:
+### Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=dan-koller&show_icons=true&hide_border=true&theme=rose_pine)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dan-koller&hide_border=true&layout=compact&theme=rose_pine)
+
+---
+
+### Languages & Frameworks
 
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
 <img align="left" alt="Spring" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/spring-boot/spring-boot.png" />
@@ -31,15 +38,16 @@ _I'm a student and hobby developer. I enjoy building fast and secure web apps an
 
 ---
 
-### Tools:
+### Tools
 
 <img align="left" alt="IntelliJ" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/intellij-idea/intellij-idea.png" />
 <img align="left" alt="PyCharm" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/pycharm/pycharm.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/neovim/neovim.png" />
 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" />
 <img align="left" alt="Postman" width="26px" src="https://res.cloudinary.com/postman/image/upload/t_team_logo/v1629869194/team/2893aede23f01bfcbd2319326bc96a6ed0524eba759745ed6d73405a3a8b67a8" />
-<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" >
+<img align="left" alt="Google Cloud" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/google-cloud/google-cloud.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
@@ -47,17 +55,3 @@ _I'm a student and hobby developer. I enjoy building fast and secure web apps an
 <br />
 
 ---
-
-<details>
-  <summary>GitHub Stats</summary>
-
-  <img align="left" alt="Dan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=dan-koller&show_icons=true&hide_border=true&theme=swift" />
-
-</details>
-
-<details>
-  <summary>Most Used Languages</summary>
-
-<img align="left" alt="Dan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-koller&layout=compact&theme=swift" />
-
-</details>
