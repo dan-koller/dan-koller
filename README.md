@@ -12,12 +12,10 @@ I'm a student and developer who enjoys building fast, secure, and modern web app
 
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=dan-koller&show_icons=true&hide_border=true&theme=rose_pine)
-<details>
-  <summary>Most Used Languages</summary>
+<p float="left">
+  <img alt="Dan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api?username=dan-koller&show_icons=true&hide_border=true&theme=rose_pine" height=165px />
   <img alt="Dan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-koller&hide_border=true&layout=compact&theme=rose_pine" />
-</details>
-
+</p>
 
 ---
 
